@@ -1,5 +1,5 @@
 # ⚡️ Hello!
-🤟 Hi, I'm Stefaan, I'd like to call myself a Full-Stack developer, but specialised in Frontend frameworks such as React and Angular and backend frameworks such as .NET Core.
+🤟 Hi, I'm Stefaan, a Full-Stack developer, specialised in React and .NET Core.
 
 
 ## 🌐 Socials:
